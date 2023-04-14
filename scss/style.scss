@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+box-sizing: border-box;
+}
+$color: red;
+$var1: 1px solid black;
+.cls1{
+    border : $var1;    
+}
+h1{
+    color: $color;
+}
